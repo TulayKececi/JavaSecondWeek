@@ -4,41 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98c52448-f340-4fe4-9c39-05fa612d5f62" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e8ba097d38ebeb08d2240bbafa7294b92263c0e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCampSecondWeek.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classesWithAttribute/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classesWithAttribute/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classesWithAttribute/ProductManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/customersClass/Classes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/customersClass/CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incheritance/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incheritance/CustomerManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incheritance/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incheritance/EmployeeManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incheritance/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/incheritance/PersonManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritanceDemo/AskerKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritanceDemo/BaseKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritanceDemo/KrediUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritanceDemo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritanceDemo/OgretmenKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritanceDemo/TarimKrediManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methodOverloading/DortIslem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methodOverloading/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/Methods2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/MetodlariAnlamak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reCapDemo/DortIslem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reCapDemo/Main.java" afterDir="false" />
+    <list default="true" id="98c52448-f340-4fe4-9c39-05fa612d5f62" name="Changes" comment="Java camp week2 study">
+      <change beforePath="$PROJECT_DIR$/src/inheritanceDemo/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -92,8 +60,16 @@
       <workItem from="1663917336842" duration="3891000" />
       <workItem from="1664171169951" duration="3340000" />
       <workItem from="1664176100203" duration="29000" />
-      <workItem from="1664176142950" duration="9963000" />
+      <workItem from="1664176142950" duration="10279000" />
     </task>
+    <task id="LOCAL-00001" summary="Java camp week2 study">
+      <created>1664197998569</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664197998569</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,5 +85,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java camp week2 study" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java camp week2 study" />
   </component>
 </project>
